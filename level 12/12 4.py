@@ -1,0 +1,1 @@
+name = int(input("enter your number"))

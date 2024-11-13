@@ -1,0 +1,12 @@
+.div1{
+    background-color: aquamarine;
+    height: 40px;
+    right: 40px;
+}
+.div2{
+    background-color: cornflowerblue;
+    right: 50px;
+}
+body{
+    background-color: darkcyan;
+}

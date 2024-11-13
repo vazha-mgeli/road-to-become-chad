@@ -1,0 +1,12 @@
+h1{
+    color: firebrick;
+    background-color: darkolivegreen;
+    text-decoration: line-through;
+}
+p{
+    color: darkkhaki;
+}
+body{
+    background-color: slateblue;
+    font-family: sans-serif;
+}
