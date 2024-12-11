@@ -1,0 +1,17 @@
+.c{
+    background-color: aqua;
+    padding: 30px;
+    margin: 10px;
+}
+
+.m{
+    background-color: cornflowerblue;
+    padding: 30px;
+    margin: 10px;
+}
+body{
+    background-color: lightseagreen;
+}
+.container{
+    display: flex;
+}

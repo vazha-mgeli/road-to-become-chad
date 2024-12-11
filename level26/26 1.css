@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Noto+Sans+KR:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&family=Yuji+Mai&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Nunito", sans-serif;
+
+}
+
+.re{
+    background-color: aqua;
+    padding: 30px;
+    margin: 10px;
+}
+
+.da{
+    background-color: darkturquoise;
+    padding: 30px;
+    margin: 10px;
+
+}
+.dg{
+    background-color: darkgrey;
+    margin: 10px;
+    padding: 30px;
+}
+.ff{
+    background-color: darkmagenta;
+    padding: 30px;
+    margin: 10px;
+}
+
+.we{
+    background-color: navy;
+    padding: 30px;
+    margin: 10px;
+}
+.t{
+    background-color: greenyellow;
+    padding: 30px;
+    margin: 10px;
+}
+.j{
+    background-color: dimgray;
+    padding: 30px;
+    margin: 10px;
+}
+.k{
+    background-color: darkgreen;
+    padding: 30px;
+    margin: 10px;
+}
+
+body{
+    background-color: lightgreen;
+}

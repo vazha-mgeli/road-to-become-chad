@@ -1,0 +1,55 @@
+.fg{
+    background-color: aqua;
+    padding: 30px;
+    margin: 15px;
+}
+
+.gu{
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 30px;
+}
+.gy{
+    background-color: blueviolet;
+    padding: 30px;
+    margin: 15px;
+}
+
+.dr{
+    background-color: darkorange;
+    padding: 30px;
+    margin: 15px;
+}
+
+.a{
+        background-color: darkolivegreen;
+        padding: 30px;
+        margin: 15px;
+}
+
+.kl{
+    background-color: lawngreen;
+    padding: 30px;
+    margin: 15px;
+}
+
+.r{
+    background-color: darkred;
+    padding: 30px;
+    margin: 15px;
+}
+
+.b{
+    background-color: darksalmon;
+    padding: 30px;
+    margin: 15px;
+}
+
+.v{
+    background-color: hotpink;
+    padding: 30px;
+    margin: 15px;
+}
+body{
+    background-color: lightseagreen;
+}

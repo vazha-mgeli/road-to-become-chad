@@ -1,0 +1,46 @@
+.de{
+    background-color: aquamarine;
+    padding: 30px;
+}
+
+.xs{
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+
+.week{
+    background-color: deeppink;
+    padding: 30px;
+}
+
+.history{
+    background-color: darkslategray;
+    padding: 30px;
+}
+
+.ef{
+    background-color: darkorange;
+    padding: 30px;
+}
+
+.df{
+    background-color: saddlebrown;
+    padding: 30px;
+}
+
+
+.rfg{
+    background-color: lightcoral;
+    padding: 30px;
+}
+
+.we{
+    background-color: lawngreen;
+    padding: 30px;
+}
+
+body{
+    background-color: darksalmon;
+}
+

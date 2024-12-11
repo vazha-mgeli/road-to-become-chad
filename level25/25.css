@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Noto+Sans+KR:wght@100..900&family=Yuji+Mai&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Yuji Mai", serif;
+}
+
+.q{
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 15px;
+}
+.a{
+    background-color: aqua;
+    padding: 30px;
+    margin: 15px;
+}
+
+.z{
+    background-color: coral;
+    padding: 30px;
+    margin: 15px;
+}
+
+.x{
+    background-color: cornflowerblue;
+    padding: 30px;
+    margin: 15px;
+}
+
+.s{
+    background-color: mediumorchid;
+    padding: 30px;
+    margin: 15px;
+}
+
+.w{
+    background-color: darkgoldenrod;
+    padding: 30px;
+    margin: 15px;
+}
+
+.e{
+    background-color: fuchsia;
+    padding: 30px;
+    margin: 15px;
+}
+
+.d{
+    background-color: darkolivegreen;
+    padding: 30px;
+    margin: 15px;
+}
+
+.c{
+    background-color: firebrick;
+    margin: 15px;
+    padding: 30px;
+}
+
+body{
+    background-color: lightgreen;
+}

@@ -1,0 +1,21 @@
+body{
+   background-color: rosybrown ; 
+}
+.re{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding-right: 70px;
+
+}
+.zs{
+    background-color: coral;
+    padding: 27px;
+}
+.es{
+    background-color: cadetblue;
+    padding: 27px;
+}
+.fg{
+    background-color: cyan;
+    padding: 27px;
+}

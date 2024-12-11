@@ -1,0 +1,15 @@
+.f{
+    background-color: aqua;
+    padding: 30px;
+    margin: 10px;
+}
+
+.d{
+    background-color: hotpink;
+    padding: 30px;
+    margin: 10px;
+}
+
+body{
+    background-color: lawngreen;
+}

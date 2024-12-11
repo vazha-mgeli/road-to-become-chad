@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Noto+Sans+KR:wght@100..900&family=Oswald:wght@200..700&family=Yuji+Mai&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: lightseagreen;
+    font-family: "Oswald", sans-serif;
+}
+ul{
+    list-style: none;
+}
+
+.d {
+    background-color: darksalmon;
+    padding: 30px;
+    margin: 10px;
+}
+
+
+.cv {
+    background-color: aqua;
+    margin: 10px;
+    padding: 30px;
+}
+
+.dc {
+    background-color: blueviolet;
+    padding: 30px;
+    margin: 10px;
+}
+
+.as {
+    background-color: cadetblue;
+    padding: 30px;
+    margin: 10px;
+}
+
+.v {
+    background-color: lawngreen;
+    padding: 30px;
+    margin: 10px;
+}
+
+.g {
+    background-color: darkmagenta;
+    padding: 30px;
+    margin: 10px;
+}
+
+.ds {
+    background-color: darkolivegreen;
+    margin: 10px;
+    padding: 30px;
+}
+
+.h {
+    background-color: darkslategray;
+    padding: 30px;
+    margin: 10px;
+}
+
+.vv {
+    background-color: greenyellow;
+    padding: 30px;
+    margin: 10px;
+}
+
+.gh {
+    background-color: darkorchid;
+    padding: 30px;
+    margin: 10px;
+}
+
+ body {
+    background-color: lightseagreen;
+}
+
+
+.container {
+    display: flex;
+}

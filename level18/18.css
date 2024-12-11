@@ -1,0 +1,16 @@
+.BIBI{
+    background-color:blue ;
+    border-radius: 12px;
+}
+.info{
+   background-color: red;
+}
+.do{
+    background-color: blueviolet;
+}
+.sd{
+    background-color: seagreen;
+}
+body{
+    background-color: green;
+}

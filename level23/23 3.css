@@ -1,0 +1,52 @@
+.zx{
+    background-color: chocolate;
+    margin: 10px;
+    padding: 30px;
+}
+
+.qw{
+    background-color: aqua;
+    padding: 30px;
+    margin: 10px;
+}
+
+.sa{
+    background-color: cadetblue;
+    padding: 30px;
+    margin: 10px;
+}
+
+.rg{
+    background-color: darkgoldenrod;
+    padding: 30px;
+    margin: 10px;
+}
+.sd{
+    background-color: crimson;
+    padding: 30px;
+    margin: 10px;
+}
+.qs{
+    background-color: coral;
+    padding: 30px;
+    margin: 10px;
+}
+.yu{
+    background-color: lawngreen;
+    padding: 30px;
+    margin: 10px;
+}
+.sc{
+    background-color: indianred;
+    padding: 30px;
+    margin: 10px;
+}
+.za{
+    background-color: dodgerblue;
+    padding: 30px;
+    margin: 10px;
+}
+
+body{
+    background-color: lightseagreen;
+}

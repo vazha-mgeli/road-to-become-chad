@@ -1,0 +1,48 @@
+@import url('╕https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jaro", sans-serif;
+
+}
+
+.de {
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 15px;
+}
+
+.we {
+    background-color: cadetblue;
+    padding: 30px;
+    margin: 15px;
+}
+
+.ef {
+    background-color: darksalmon;
+    padding: 30px;
+    margin: 15px;
+}
+
+.wer {
+    background-color: aqua;
+    padding: 30px;
+    margin: 15px;
+}
+
+.ws {
+    background-color: blueviolet;
+    padding: 30px;
+    margin: 15px;
+}
+
+.wf {
+    background-color: cyan;
+    padding: 30px;
+    margin: 15px;
+}
+
+body {
+    background-color: darkkhaki;
+}

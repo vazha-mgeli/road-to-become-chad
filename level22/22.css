@@ -1,0 +1,50 @@
+.sd{
+    background-color: cadetblue;
+    padding: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.e{
+    background-color: darkolivegreen;
+    padding: 30px;
+    margin: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.r{
+    padding: 30px;
+    background-color: crimson;
+    margin: 15px;
+}
+.y{
+    background-color: darkseagreen;
+    padding: 30px;
+}
+.f{
+    background-color: darkturquoise;
+    padding: 30px;
+}
+
+.we{
+    background-color: limegreen;
+    padding: 30px;
+}
+.q{
+    background-color: darkorchid;
+    padding: 30px;
+}
+.u{
+    background-color: deeppink;
+    padding: 30px;
+}
+.az{
+    background-color: coral;
+    padding: 30px;
+}
+body{
+    background-color: lightgreen;
+}
